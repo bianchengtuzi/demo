@@ -74,7 +74,7 @@
 		<pluginRepository>
 			<id>jeesite-repos</id>
 			<name>Jeesite Repository</name>
-			<url>http://nexus3-cicd.apps.example.com/repository/maven-public</url>
+			<url>http://maven.aliyun.com/nexus/content/groups/public</url>
 		</pluginRepository>
 		
 	</pluginRepositories> 
